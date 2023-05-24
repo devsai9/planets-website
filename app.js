@@ -24,7 +24,7 @@ function createDiv(url, alt, title, content) {
     console.log("Done: " + title);
 }
 
-createDiv('https://assets.stickpng.com/images/580b585b2edbce24c47b2714.png', 'Sun Image', 'The Sun', 'The sun is the center of the solar system and provides heat and light to us on Earth!<br>It is the only star in our solar system and its huge gravitational pull is what holds the solar system together.<br>The surface temperature of the sun is 5772 degrees Kelvin (9929 Fahrenheit, 5498 Calsius).');
+createDiv('https://images.nationalgeographic.org/image/upload/v1638882786/EducationHub/photos/sun-blasts-a-m66-flare.jpg', 'Sun Image', 'The Sun', 'The sun is the center of the solar system and provides heat and light to us on Earth!<br>It is the only star in our solar system and its huge gravitational pull is what holds the solar system together.<br>The surface temperature of the sun is 5772 degrees Kelvin (9929 Fahrenheit, 5498 Calsius).');
 
 createDiv('https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcTFFRKg1XEC7kNu58XVZi9vPh6F9ii0FhevCdEAUKyMEtSdx4HLLLNBMacXXX0Y0gLv', 'Mercury Image', 'Mercury', 'The first planet in a ring of 8 (sorry Pluto 🙁).<br>It is the closest to the sun and is the smallest planet in the solar system.');
 
