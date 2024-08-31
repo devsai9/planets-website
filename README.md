@@ -1,6 +1,6 @@
 # Planets Website
 On this website, the user can scroll through cards about the solar system each with a planet (or a star), its picture, and some information about it will be displayed. <br> 
-Use: https://devsai9.github.io/planets-website
+Use: https://devsai9.github.io/solar-system-website
 
 ## Features
 <ul>
